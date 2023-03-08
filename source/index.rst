@@ -11,9 +11,8 @@
 .. toctree::
    :maxdepth: 2
    :caption: 硬件(Arduino)
-
-   hardware_arduino/controller/index.rst
-   hardware_arduino/modules/index.rst
+   
+   hardware_arduino/intro.rst
    
 .. toctree::
    :maxdepth: 2
@@ -24,7 +23,6 @@
    hardware_micropython/actuator/index.rst
    hardware_micropython/modules/index.rst
    hardware_micropython/kit/index.rst
-   hardware_micropython/demo/intro.rst
    
 .. toctree::
    :maxdepth: 2
@@ -37,7 +35,7 @@
    :maxdepth: 2
    :caption: 项目  
    
-   project/intro.rst 
+   project/index.rst 
 
    
 Indices and tables

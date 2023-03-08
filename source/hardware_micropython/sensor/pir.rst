@@ -17,7 +17,7 @@
     '''
      类：pir_sensor
      参数:
-        port: 端口号 -- 1或7 
+        port: 端口号 -- 1~8
     '''
     class pir_sensor(port)
     

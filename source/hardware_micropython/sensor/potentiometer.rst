@@ -20,7 +20,8 @@
     '''
      类：电位器
      参数:
-        port: 端口号 -- 3，4 
+        port: 端口号 -- 3，4(开元)
+        port: 端口号 -- 1~4(开元S) 		
     '''
     class potentiometer(port)
     

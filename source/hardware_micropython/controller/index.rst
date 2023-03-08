@@ -2,12 +2,12 @@
 ========================================
 
 .. toctree::
-   :maxdepth: 1
-   :numbered:
+   :maxdepth: 2
+   :numbered: 1
    
    enlighten.rst
-   kaiyuan.rst
- 
+   kaiyuan/index.rst
+   kaiyuan_s/index.rst
 
 
  

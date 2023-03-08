@@ -9,7 +9,7 @@
    motor_fan.rst
    servo.rst
    multi_ch_servo.rst
-
+   relay.rst
 
  
 
